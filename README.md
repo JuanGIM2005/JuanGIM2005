@@ -1,6 +1,6 @@
-# Olá, eu sou o Juan Gabriel! 👋
+# Juan Gabriel! 
 
-Seja bem-vindo ao meu perfil do GitHub. Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**, com foco em sistemas de alta disponibilidade e arquitetura bancária.
+Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**, com foco em sistemas de alta disponibilidade e arquitetura bancária.
 
 ---
 
