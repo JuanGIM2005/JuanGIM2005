@@ -14,26 +14,46 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 ### 🛠️ Stack
 
-### BackEnd                             Armazenamento & Estruturas de Dados
-* 📘 *COBOL*                           * 💾 *VSAM*
-* ⚙️ *JCL*                             * 🗅 *IMS*
-* 🗄️ *SQL DB2*
-* ☕ *Java*
+<table border="0" width="100%">
+  <tr>
+    <!-- COLUNA 1: BACKEND -->
+    <td valign="top" width="25%">
+      ⚙️ <b>BackEnd</b><br>
+      • 🔹COBOL🔹<br>
+      • 🔹JCL🔹<br>
+      • 🔹SQL DB2🔹<br>
+      • 🔹Java🔹
+    </td>
 
-### Ferramentas & Ambientes Mainframe
-* 🖥️ *z/OS*
-* 🌐 *CICS*
-* ⌨️ *TSO*
-* 🔄 *Changeman*
-* 📄 *EOS*
-* 📁 *File Manager*
-* ⏱️ *Control-M*
-* 👁️ *Hexavision*
+    <!-- COLUNA 2: ARMAZENAMENTO -->
+    <td valign="top" width="25%">
+      📂 <b>Armazenamento & Estruturas de Dados</b><br>
+      • 🔹VSAM🔹<br>
+      • 🔹IMS🔹
+    </td>
 
-### DevOps & Versionamento
-* 🌿 *Git*
-* 🐱 *GitHub*
-  
+    <!-- COLUNA 3: FERRAMENTAS MAINFRAME -->
+    <td valign="top" width="25%">
+      💻 <b>Ferramentas & Ambientes Mainframe</b><br>
+      • 🔹z/OS🔹<br>
+      • 🔹CICS🔹<br>
+      • 🔹TSO🔹<br>
+      • 🔹Changeman🔹<br>
+      • 🔹EDS🔹<br>
+      • 🔹File Manager🔹<br>
+      • 🔹Control-M🔹<br>
+      • 🔹Hexavision🔹
+    </td>
+
+    <!-- COLUNA 4: DEVOPS -->
+    <td valign="top" width="25%">
+      🚀 <b>DevOps & Versionamento</b><br>
+      • 🔹Git🔹<br>
+      • 🔹GitHub🔹
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📫 Conecte-se comigo
