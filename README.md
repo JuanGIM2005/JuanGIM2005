@@ -26,14 +26,14 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
     </td>
 
     <!-- COLUNA 2: ARMAZENAMENTO -->
-    <td valign="top" width="25%">
+   <td valign="top" width="25%">
       📂 <b>Armazenamento & Estruturas de Dados</b><br>
       • 🔹VSAM🔹<br>
       • 🔹IMS🔹
-    </td>
+   </td>
 
     <!-- COLUNA 3: FERRAMENTAS MAINFRAME -->
-    <td valign="top" width="25%">
+   <td valign="top" width="25%">
       💻 <b>Ferramentas & Ambientes Mainframe</b><br>
       • 🔹z/OS🔹<br>
       • 🔹CICS🔹<br>
@@ -43,18 +43,16 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
       • 🔹File Manager🔹<br>
       • 🔹Control-M🔹<br>
       • 🔹Hexavision🔹
-    </td>
+   </td>
 
     <!-- COLUNA 4: DEVOPS -->
-    <td valign="top" width="25%">
+   <td valign="top" width="25%">
       🚀 <b>DevOps & Versionamento</b><br>
       • 🔹Git🔹<br>
       • 🔹GitHub🔹
-    </td>
+   </td>
   </tr>
 </table>
-
----
 
 ### 📫 Conecte-se comigo
 - 💼 **LinkedIn:** [Juan Gabriel](https://linkedin.com)
