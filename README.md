@@ -14,7 +14,7 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 ### 🛠️ Stack
 
-### BackEnd                            ### Armazenamento & Estruturas de Dados
+### BackEnd                             Armazenamento & Estruturas de Dados
 * 📘 *COBOL*                           * 💾 *VSAM*
 * ⚙️ *JCL*                             * 🗅 *IMS*
 * 🗄️ *SQL DB2*
