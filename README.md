@@ -14,17 +14,44 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 ### 🛠️ Stack
 
-**Linguagens & Bancos de Dados:**
-![COBOL](https://shields.io) ![JCL](https://shields.io) ![SQL DB2](https://shields.io) ![Java](https://shields.io)
-
-**Armazenamento & Estruturas de Dados:**
-![VSAM](https://shields.io) ![IMS](https://shields.io)
-
-**Ferramentas & Ambientes Mainframe:**
-![z/OS](https://shields.io) ![CICS](https://shields.io) ![TSO](https://shields.io) ![Changeman](https://shields.io) ![EOS](https://shields.io) ![File Manager](https://shields.io) ![Control-M](https://shields.io) ![Hexavision](https://shields.io)
-
-**DevOps & Versionamento:**
-![Git](https://shields.io) ![GitHub](https://shields.io)
+<table>
+  <tr>
+    <td><b>Linguagens & Bancos de Dados</b></td>
+    <td>
+      <img src="https://shields.io" alt="COBOL" />
+      <img src="https://shields.io" alt="JCL" />
+      <img src="https://shields.io" alt="SQL DB2" />
+      <img src="https://shields.io" alt="Java" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Armazenamento & Estruturas de Dados</b></td>
+    <td>
+      <img src="https://shields.io" alt="VSAM" />
+      <img src="https://shields.io" alt="IMS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas & Ambientes Mainframe</b></td>
+    <td>
+      <img src="https://shields.io" alt="z/OS" />
+      <img src="https://shields.io" alt="CICS" />
+      <img src="https://shields.io" alt="TSO" />
+      <img src="https://shields.io" alt="Changeman" />
+      <img src="https://shields.io" alt="EOS" />
+      <img src="https://shields.io" alt="File Manager" />
+      <img src="https://shields.io" alt="Control-M" />
+      <img src="https://shields.io" alt="Hexavision" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Versionamento</b></td>
+    <td>
+      <img src="https://shields.io" alt="Git" />
+      <img src="https://shields.io" alt="GitHub" />
+    </td>
+  </tr>
+</table>
 
 ---
 
