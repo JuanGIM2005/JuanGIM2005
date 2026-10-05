@@ -14,39 +14,29 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 ### 🛠️ Stack
 
-*Linguagens & Bancos de Dados:*
-<p align="left">
-  <span style="background-color: #00599C; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">COBOL</span>
-  <span style="background-color: #333333; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">JCL</span>
-  <span style="background-color: #4479A1; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">SQL DB2</span>
-  <span style="background-color: #ED8B00; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Java</span>
-</p>
+### 🚀 Linguagens & Bancos de Dados
+* 📘 *COBOL*
+* ⚙️ *JCL*
+* 🗄️ *SQL DB2*
+* ☕ *Java*
 
-*Armazenamento & Estruturas de Dados:*
-<p align="left">
-  <span style="background-color: #0052CC; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">VSAM</span>
-  <span style="background-color: #052F5F; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">IMS</span>
-</p>
+### 📦 Armazenamento & Estruturas de Dados
+* 💾 *VSAM*
+* 🗅 *IMS*
 
-*Ferramentas & Ambientes Mainframe:*
-<p align="left">
-  <span style="background-color: #002F6C; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">z/OS</span>
-  <span style="background-color: #1182C4; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">CICS</span>
-  <span style="background-color: #4B32C3; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">TSO</span>
-  <span style="background-color: #201A24; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Changeman</span>
-  <span style="background-color: #701515; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">EOS</span>
-  <span style="background-color: #4A4A4A; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">File Manager</span>
-  <span style="background-color: #D32F2F; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Control-M</span>
-  <span style="background-color: #4CAF50; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Hexavision</span>
-</p>
+### ⚙️ Ferramentas & Ambientes Mainframe
+* 🖥️ *z/OS*
+* 🌐 *CICS*
+* ⌨️ *TSO*
+* 🔄 *Changeman*
+* 📄 *EOS*
+* 📁 *File Manager*
+* ⏱️ *Control-M*
+* 👁️ *Hexavision*
 
-*DevOps & Versionamento:*
-<p align="left">
-  <span style="background-color: #F05032; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Git</span>
-  <span style="background-color: #181717; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">GitHub</span>
-</p>
-
-    
+### 🐙 DevOps & Versionamento
+* 🌿 *Git*
+* 🐱 *GitHub*
   
 ---
 
