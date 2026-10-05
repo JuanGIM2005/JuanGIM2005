@@ -1,15 +1,14 @@
 # Juan Gabriel
 
-Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**, com foco em sistemas de alta disponibilidade, arquitetura bancária e infraestrutura.
+I'm a technology enthusiast focused on Mainframe development, specializing in high availability systems, banking architecture, and infrastructure.
 
 ---
 
-### 💻 Sobre Mim
-- 🎓 Cursando **Ciência da Computação**.
-- 📋 Foco de Estudo e Carreira em **Desenvolvimento Mainframe**.
-- 🛠️ Focado no desenvolvimento de rotinas de processamento **Batch e Online**.
-- 🔍 Aprofundando conhecimentos no ecossistema **IBM Z/OS** e armazenamento de dados de grande escala.
-
+### Current Status:
+- 🎓 Studying **Computer Science**.
+- 📋 Study and Career Focus in **Mainframe Development**.
+- 🛠️ Focused on developing **Batch and Online** processing routines.
+- 🔍 Deepening knowledge of the **IBM Z/OS** ecosystem and large-scale data storage.
 ---
 
 ### 🛠️ Stack
@@ -17,40 +16,40 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 <table border="0" width="100%">
   <tr>
     <td valign="top" width="25%">
-      ⚙️ <b>BackEnd</b><br>
-      • 🔹COBOL🔹<br>
-      • 🔹JCL🔹<br>
-      • 🔹SQL DB2🔹<br>
-      • 🔹Java🔹
+       <b>BackEnd:</b><br>
+      • 📘 COBOL🔹<br>
+      • ⚙️ JCL🔹<br>
+      • 🗄️ SQL DB2🔹<br>
+      • ☕ Java🔹
     </td>
 
    <td valign="top" width="25%">
-      📂 <b>Armazenamento & Estruturas de Dados</b><br>
-      • 🔹VSAM🔹<br>
-      • 🔹IMS🔹
+       <b>Storage & Data Structures:</b><br>
+      • 💾 VSAM🔹<br>
+      • 🗅 IMS🔹
    </td>
    
    <td valign="top" width="25%">
-      💻 <b>Ferramentas & Ambientes Mainframe</b><br>
-      • 🔹z/OS🔹<br>
-      • 🔹CICS🔹<br>
-      • 🔹TSO🔹<br>
-      • 🔹Changeman🔹<br>
-      • 🔹EDS🔹<br>
-      • 🔹File Manager🔹<br>
-      • 🔹Control-M🔹<br>
-      • 🔹Hexavision🔹
+       <b>Mainframe Tools & Environments:</b><br>
+      • 🖥️ z/OS🔹<br>
+      • 🌐 CICS🔹<br>
+      • ⌨️ TSO🔹<br>
+      • 🔄 Changeman🔹<br>
+      • 📄 EOS🔹<br>
+      • 📁 File Manager🔹<br>
+      • ⏱️ Control-M🔹<br>
+      • 👁️ Hexavision🔹
    </td>
 
    <td valign="top" width="25%">
-      🚀 <b>DevOps & Versionamento</b><br>
-      • 🔹Git🔹<br>
-      • 🔹GitHub🔹
+       <b>DevOps & Versioning:</b><br>
+      • 🌿 Git🔹<br>
+      • 🐱 GitHub🔹
    </td>
   </tr>
 </table>
 
-### 📫 Conecte-se comigo
+### 📫 Connect with me
 - 💼 **LinkedIn:** [Juan Gabriel](https://linkedin.com)
 <!--
 **JuanGIM2005/JuanGIM2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
