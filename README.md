@@ -14,15 +14,11 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 ### 🛠️ Stack
 
-### BackEnd
-* 📘 *COBOL*
-* ⚙️ *JCL*
+### BackEnd                            ### Armazenamento & Estruturas de Dados
+* 📘 *COBOL*                           * 💾 *VSAM*
+* ⚙️ *JCL*                             * 🗅 *IMS*
 * 🗄️ *SQL DB2*
 * ☕ *Java*
-
-### Armazenamento & Estruturas de Dados
-* 💾 *VSAM*
-* 🗅 *IMS*
 
 ### Ferramentas & Ambientes Mainframe
 * 🖥️ *z/OS*
