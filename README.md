@@ -1,6 +1,6 @@
 # Juan Gabriel
 
-I'm a technology enthusiast focused on Mainframe development, specializing in high availability systems, banking architecture, and infrastructure.
+I'm a Brazilian tech enthusiast! Focused on mainframe development and specialized in high-availability systems, banking architecture, and infrastructure.
 
 ---
 
