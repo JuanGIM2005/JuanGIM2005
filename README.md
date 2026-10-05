@@ -14,17 +14,17 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 ### 🛠️ Stack
 
-### 🚀 Linguagens & Bancos de Dados
+### BackEnd
 * 📘 *COBOL*
 * ⚙️ *JCL*
 * 🗄️ *SQL DB2*
 * ☕ *Java*
 
-### 📦 Armazenamento & Estruturas de Dados
+### Armazenamento & Estruturas de Dados
 * 💾 *VSAM*
 * 🗅 *IMS*
 
-### ⚙️ Ferramentas & Ambientes Mainframe
+### Ferramentas & Ambientes Mainframe
 * 🖥️ *z/OS*
 * 🌐 *CICS*
 * ⌨️ *TSO*
@@ -34,7 +34,7 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 * ⏱️ *Control-M*
 * 👁️ *Hexavision*
 
-### 🐙 DevOps & Versionamento
+### DevOps & Versionamento
 * 🌿 *Git*
 * 🐱 *GitHub*
   
