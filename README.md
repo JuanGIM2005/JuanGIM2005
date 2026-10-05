@@ -1,11 +1,12 @@
 # Olá, eu sou o Juan Gabriel! 👋
 
-Seja bem-vindo ao meu perfil do GitHub. Sou um entusiasta da área de tecnologia focado em **desenvolvimento e administração de ambientes Mainframe**, com foco em sistemas de alta disponibilidade e arquitetura bancária.
+Seja bem-vindo ao meu perfil do GitHub. Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**, com foco em sistemas de alta disponibilidade e arquitetura bancária.
 
 ---
 
 ### 🖥️ Sobre Mim
-- 🎓 Estudando intensamente a **parte administrativa bancária e infraestrutura de Mainframe**.
+- 🎓 Cursando **Ciência da Computação**.
+- 📚 Foco de Estudo e Carreira em **Desenvolvimento Mainframe**.
 - 🛠️ Focado no desenvolvimento de rotinas de processamento **Batch e Online**.
 - 🔍 Aprofundando conhecimentos no ecossistema IBM Z/OS e armazenamento de dados de grande escala.
 
@@ -27,8 +28,6 @@ Seja bem-vindo ao meu perfil do GitHub. Sou um entusiasta da área de tecnologia
 
 ### 📫 Conecte-se comigo
 - 💼 LinkedIn: [Juan Gabriel](https://linkedin.com)
-- 📧 E-mail: <layout>followupButton(query="""Draft an email to juangmto@gmail.com""", label="""juangmto@gmail.com""", variant=FOLLOWUP_BUTTON_VARIANT_EMAIL_DROPDOWN)</layout>
--
 
 <!--
 **JuanGIM2005/JuanGIM2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
