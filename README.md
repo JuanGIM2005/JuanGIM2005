@@ -44,7 +44,6 @@ Você pode personalizar esses links colocando o seu perfil real nos campos abaix
 - 💼 LinkedIn: [Juan Gabriel](https://www.linkedin.com/in/juan-gabriel-5a3783303/)
  
 ---
-Perfil criado e atualizado em outubro de 2026.
 
 <!--
 **JuanGIM2005/JuanGIM2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
