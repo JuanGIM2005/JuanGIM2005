@@ -16,7 +16,6 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 <table border="0" width="100%">
   <tr>
-    <!-- COLUNA 1: BACKEND -->
     <td valign="top" width="25%">
       ⚙️ <b>BackEnd</b><br>
       • 🔹COBOL🔹<br>
@@ -25,14 +24,12 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
       • 🔹Java🔹
     </td>
 
-    <!-- COLUNA 2: ARMAZENAMENTO -->
    <td valign="top" width="25%">
       📂 <b>Armazenamento & Estruturas de Dados</b><br>
       • 🔹VSAM🔹<br>
       • 🔹IMS🔹
    </td>
-
-    <!-- COLUNA 3: FERRAMENTAS MAINFRAME -->
+   
    <td valign="top" width="25%">
       💻 <b>Ferramentas & Ambientes Mainframe</b><br>
       • 🔹z/OS🔹<br>
@@ -45,7 +42,6 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
       • 🔹Hexavision🔹
    </td>
 
-    <!-- COLUNA 4: DEVOPS -->
    <td valign="top" width="25%">
       🚀 <b>DevOps & Versionamento</b><br>
       • 🔹Git🔹<br>
