@@ -14,45 +14,40 @@ Sou um entusiasta da área de tecnologia focado em **desenvolvimento Mainframe**
 
 ### 🛠️ Stack
 
-<table>
-  <tr>
-    <td><b>Linguagens & Bancos de Dados</b></td>
-    <td>
-      <img src="https://shields.io" alt="COBOL" />
-      <img src="https://shields.io" alt="JCL" />
-      <img src="https://shields.io" alt="SQL DB2" />
-      <img src="https://shields.io" alt="Java" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Armazenamento & Estruturas de Dados</b></td>
-    <td>
-      <img src="https://shields.io" alt="VSAM" />
-      <img src="https://shields.io" alt="IMS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Ferramentas & Ambientes Mainframe</b></td>
-    <td>
-      <img src="https://shields.io" alt="z/OS" />
-      <img src="https://shields.io" alt="CICS" />
-      <img src="https://shields.io" alt="TSO" />
-      <img src="https://shields.io" alt="Changeman" />
-      <img src="https://shields.io" alt="EOS" />
-      <img src="https://shields.io" alt="File Manager" />
-      <img src="https://shields.io" alt="Control-M" />
-      <img src="https://shields.io" alt="Hexavision" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Versionamento</b></td>
-    <td>
-      <img src="https://shields.io" alt="Git" />
-      <img src="https://shields.io" alt="GitHub" />
-    </td>
-  </tr>
-</table>
+*Linguagens & Bancos de Dados:*
+<p align="left">
+  <span style="background-color: #00599C; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">COBOL</span>
+  <span style="background-color: #333333; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">JCL</span>
+  <span style="background-color: #4479A1; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">SQL DB2</span>
+  <span style="background-color: #ED8B00; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Java</span>
+</p>
 
+*Armazenamento & Estruturas de Dados:*
+<p align="left">
+  <span style="background-color: #0052CC; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">VSAM</span>
+  <span style="background-color: #052F5F; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">IMS</span>
+</p>
+
+*Ferramentas & Ambientes Mainframe:*
+<p align="left">
+  <span style="background-color: #002F6C; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">z/OS</span>
+  <span style="background-color: #1182C4; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">CICS</span>
+  <span style="background-color: #4B32C3; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">TSO</span>
+  <span style="background-color: #201A24; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Changeman</span>
+  <span style="background-color: #701515; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">EOS</span>
+  <span style="background-color: #4A4A4A; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">File Manager</span>
+  <span style="background-color: #D32F2F; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Control-M</span>
+  <span style="background-color: #4CAF50; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Hexavision</span>
+</p>
+
+*DevOps & Versionamento:*
+<p align="left">
+  <span style="background-color: #F05032; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">Git</span>
+  <span style="background-color: #181717; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; margin-right: 5px;">GitHub</span>
+</p>
+
+    
+  
 ---
 
 ### 📫 Conecte-se comigo
