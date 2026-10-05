@@ -50,7 +50,7 @@ I'm a Brazilian tech enthusiast! Focused on mainframe development and specialize
 </table>
 
 ### 📫 Connect with me
-- 💼 **LinkedIn:** [Juan Gabriel](https://linkedin.com)
+- 💼 **LinkedIn:** [Juan Gabriel](https://www.linkedin.com/in/juan-gabriel-5a3783303/)
 <!--
 **JuanGIM2005/JuanGIM2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
